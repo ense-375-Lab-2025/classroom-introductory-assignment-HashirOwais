@@ -26,7 +26,7 @@ Q2. What does the command `git add` do?
 3. Adds a file to the .git directory
 4. Adds a file to the working directory
 
-Answer: 2
+Answer: 2 
 
 ------
 
